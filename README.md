@@ -1,4 +1,4 @@
-dropmotion
+Dropmotion
 ==========
 
-Simple Dropbox Core API gem for RubyMotion
+This gem provides (or rather, will provide, haha) simple Dropbox Core API support for RubyMotion apps. 
